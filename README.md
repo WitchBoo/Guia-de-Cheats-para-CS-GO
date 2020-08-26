@@ -27,13 +27,11 @@ Agradecemos qualquer pessoa que contribua com este guia, criando uma pull reques
 * _RatPoisonRat \(Ratto\)_
 * _getclonedbyfeds \(clonedbyfeds\)_
 
-## License
+## Licença
 
-This masterguide is created under the MIT License, for more details please read our [LICENSE](https://github.com/csgohacks/master-guide/blob/master/LICENSE) file.
+Este guia foi criado sob a licença do MIT, para mais detalhes, leia nossa [LICENÇA.](https://github.com/WitchBoo/master-guide/blob/master/LICENSE)
 
-## In memorial of
-* _BigJuicyLawnMover321_
-
-## [https://matt12945.gitbook.io/csgo-subreddit/](Original post)
+## Repositório Original
+Você pode ver o repositório original clicando [https://github.com/csgohacks/master-guide](aqui.)
 
 

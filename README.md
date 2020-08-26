@@ -1,8 +1,8 @@
-# Welcome!
+# Bem-vindo!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](./#contributors-)
+[![Todos os Contribuidores](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](./#contributors-)
 
-This guide aims to give provide a master guide on cheating in Counter-Strike : Global offensive. This guide is divided into main 5 parts:
+Este guia tem como objetivo fornecer um guia mestre sobre cheats no Counter-Strike: Global offensive. Este guia está dividido em 5 partes principais:
 
 * Introdution
 * Cheat software introduction
@@ -10,13 +10,13 @@ This guide aims to give provide a master guide on cheating in Counter-Strike : G
 * Playstyle
 * Miscellaneous
 
-You can check out the masterguide at [here](https://matt12945.gitbook.io/csgo-subreddit/).
+Você pode verificar o guia principal [aqui](https://matt12945.gitbook.io/csgo-subreddit/).
 
-## Issues and pull requests
+## Issues e pull requests
 
-We highly welcome any to contribute to this masterguide by creating a pull request or making a issue for any improvements.
+Agradecemos qualquer pessoa que contribua com este guia, criando uma pull request ou fazendo uma edição para quaisquer melhorias.
 
-## Contributers
+## Contribuintes 
 
 * _throwaway27727394927 \(matt1\)_ 
 * _Hackintosh12945_
@@ -33,5 +33,7 @@ This masterguide is created under the MIT License, for more details please read 
 
 ## In memorial of
 * _BigJuicyLawnMover321_
+
+## [https://matt12945.gitbook.io/csgo-subreddit/](Original post)
 
 

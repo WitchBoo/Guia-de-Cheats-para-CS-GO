@@ -1,7 +1,5 @@
 # Bem-vindo!
 
-[![Todos os Contribuidores](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](./#contributors-)
-
 Este guia tem como objetivo fornecer um guia mestre sobre cheats no Counter-Strike: Global offensive. Este guia está dividido em 5 partes principais:
 
 * Introdution

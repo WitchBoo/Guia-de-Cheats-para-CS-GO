@@ -1,13 +1,13 @@
-# Table of contents
+# Tabela de Conteúdo
 
-* [Welcome!](README.md)
-* [Acknowledgments](acknowledgments.md)
+* [Bem-Vindo!](readme.md)
+* [Agradecimentos](agradecimentos.md)
 
-## General
+## Geral
 
-* [Contents](general/contents.md)
+* [Conteúdo](general/contents.md)
 
-## Introduction
+## Introdução
 
 * [First steps](introduction/first-steps.md)
 * [Terminology of csgo cheating](introduction/terminology-of-csgo-cheating.md)
@@ -22,7 +22,7 @@
 * [Common mistakes when choosing a cheat software](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
 * [Pastes and scams](cheat-software/pastes-and-scams.md)
 
-## Legit features only cheat software
+## Cheats Apenas com Recursos Legit
 
 * [Iniuria](legit-features-only-cheat-software/iniuria/README.md)
   * [How to inject](legit-features-only-cheat-software/iniuria/how-to-inject.md)
@@ -31,7 +31,7 @@
   * [How to inject](legit-features-only-cheat-software/spirthack/how-to-inject.md)
   * [Menu introduction](legit-features-only-cheat-software/spirthack/menu-introduction.md)
 
-## Legit + HvH Features cheat software
+## Cheats com Recursos Legit + HvH
 
 * [Aimware](legit-+-hvh-features-cheat-software/aimware/README.md)
   * [How to inject](legit-+-hvh-features-cheat-software/aimware/how-to-inject.md)
@@ -40,7 +40,7 @@
   * [How to inject](legit-+-hvh-features-cheat-software/onetap/how-to-inject.md)
   * [Menu introduction](legit-+-hvh-features-cheat-software/onetap/menu-introduction.md)
 
-## Free and pastes
+## Grátis e pastes
 
 * [Introduction](free-and-pastes/introduction.md)
 * [Ratpoison](free-and-pastes/ratpoison/README.md)
@@ -61,12 +61,12 @@
     * [How to inject](free-and-pastes/cracks/fatality-crack/how-to-inject.md)
     * [Menu introduction](free-and-pastes/cracks/fatality-crack/menu-introduction.md)
 
-## Private Cheats
+## Cheats Privado
 
 * [Introduction](private-cheats/introduction.md)
 * [How to apply for private cheats](private-cheats/how-to-apply-to-private-cheats.md)
 
-## Cheat configuration
+## Configuração de Cheats
 
 * [Introduction](cheat-configuration/introduction/README.md)
   * [Paid configurations](cheat-configuration/introduction/paid-configurations.md)
@@ -126,7 +126,7 @@
   * [Train](hvh-cheating/common-spots-for-different-maps/train.md)
 * [Gameplay](hvh-cheating/gameplay.md)
 
-## Miscellaneous
+## Diversos
 
 * [Source 2 and HvH](miscellaneous/source2-and-cheats.md)
 * [CSGO Source Code leaks](miscellaneous/csgo-src-leak.md)

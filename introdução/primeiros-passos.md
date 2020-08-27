@@ -1,12 +1,12 @@
-# First steps
+# Primeiros passos
 
-Welcome to the [r/csgohacks](https://www.reddit.com/r/Csgohacks/)'s masterguide on Counter Strike : Global Offensive \(CSGO for short\) cheating!
+Bem-vindo ao guia sobre Counter Strike : Global Offensive (CSGO para abreviar)!
 
-This guide will help you to learn more about:
+Este guia o ajudará a aprender mais sobre:
 
-* Different CS:GO cheating software
-* Setting up a cheat configuration
-* Learning about playstyle
-* Avoiding scams
+* Diferentes softwares de cheats
+* Definir uma configuração de cheat
+* Aprender sobre o estilo de jogo
+* Evitando golpes
 
-However, if you are a legit player that does not want to cheat in CS:GO, you can still check out our [tips for legit players](https://github.com/csgohacks/master-guide/tree/6c91b2ce1c55f76cc20c71ab64360f9021f5c22e/master-guide/miscellaneous/untitled.md), which is very useful for when you are facing a player who is cheating! Also this guide contains some tips on how to improve your skills in CS:GO, which also could be useful.
+No entanto, se você é um jogador legítimo que não quer trapacear no CS:GO, você ainda pode conferir nossas [dicas para jogadores legítimos](https://github.com/) que é muito útil para quando você está enfrentando um jogador que está trapaceando! Além disso, este guia contém algumas dicas sobre como melhorar suas habilidades no CS:GO, que também podem ser úteis.

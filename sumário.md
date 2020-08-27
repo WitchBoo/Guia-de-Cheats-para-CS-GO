@@ -1,15 +1,11 @@
 # Tabela de Conteúdo
 
-* [Bem-vindo!](readme.md)
+* [Bem-vindo!](README.md)
 * [Agradecimentos](agradecimentos.md)
-
-## Geral
-
-* [Conteúdo](general/contents.md)
 
 ## Introdução
 
-* [Primeiros passos](introduction/first-steps.md)
+* [Primeiros passos](introdução/primeiros-passos.md)
 * [Terminologia do csgo cheating](introduction/terminology-of-csgo-cheating.md)
 * [Game Bans](introduction/game-bans.md)
 * [Interno vs Externo](introduction/internal-vs-external.md)

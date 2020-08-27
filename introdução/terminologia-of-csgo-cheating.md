@@ -1,11 +1,11 @@
-# Terminology of CS:GO cheating
+# Terminologia do CS:GO cheating
 
-These are the terms that are commonly used in the CS:GO cheating community:
+Estes são os termos comumente usados ​​na comunidade de cheats de CS:GO :
 
-## Cheat Software-related
+## Relacionado á Cheat
 
-* P2C - Cheat software that requires the user to pay for it.
-* F2C - Cheat software that don't requires the user to pay for it.
+* P2C - Cheat que exige que o usuário pague por ele.
+* F2C - Cheat que não exige que o usuário pague por ela.
 * Paste - Cheats that use code which isn't written by them. However most of them behave quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scam people. However people also use this term in order to insult a cheat provider.
 * Crack - Cheats that used to be paid but now being accessible for free because of a vulnerability found in their security.
 * Config - The configuration for the cheat. Most of the cheats in CS:GO provide a lot of features for the user to set up. A configuration file allows the user to load up pre-configurated settings to the cheat, reduces the time to set up the cheat all over again.

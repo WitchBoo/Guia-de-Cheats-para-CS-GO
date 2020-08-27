@@ -108,11 +108,11 @@
 ## HvH Cheating
 
 * [Introdução](hvh-cheating/introduction.md)
-* [Estilo de Jogo](hvh-cheating/Estilo de Jogo/README.md)
+* [Estilo de Jogo](hvh-cheating/2/README.md)
   * [Estilo de Jogo e Configuração](hvh-cheating/2-and-configuration.md)
   * [O que fazer e o que não](hvh-cheating/2/dos-and-donts.md)
   * [Dicas e truques](hvh-cheating/2/tips-and-tricks.md)
-  * [Exemplo de estilo de jogo](hvh-cheating/2/Estilo de Jogo-example.md)
+  * [Exemplo de estilo de jogo](hvh-cheating/2/2-example.md)
 * [Spots comuns para mapas diferentes](hvh-cheating/common-spots-for-different-maps/README.md)
   * [Dust2](hvh-cheating/common-spots-for-different-maps/dust2.md)
   * [Dust2 \(Old\)](hvh-cheating/common-spots-for-different-maps/dust2-old.md)

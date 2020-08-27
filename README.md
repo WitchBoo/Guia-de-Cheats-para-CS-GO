@@ -17,6 +17,6 @@ Agradecemos qualquer pessoa que contribua com este guia, criando uma pull reques
 Este guia foi criado sob a licença do MIT, para mais detalhes, leia nossa [licença.](https://github.com/WitchBoo/master-guide/blob/master/licença)
 
 ## Repositório Original
-Você pode ver o repositório original clicando [https://github.com/csgohacks/master-guide](aqui.)
+Você pode ver o repositório original clicando [aqui.](https://github.com/csgohacks/master-guide)
 
 

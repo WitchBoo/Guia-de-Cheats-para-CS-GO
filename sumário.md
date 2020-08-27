@@ -1,6 +1,6 @@
 # Tabela de Conteúdo
 
-* [Bem-Vindo!](readme.md)
+* [Bem-vindo!](readme.md)
 * [Agradecimentos](agradecimentos.md)
 
 ## Geral
@@ -99,9 +99,9 @@
 
 * [Closet? Legit?](closet-legit-cheating/closet-legit.md)
 * [Closet Cheating](closet-legit-cheating/closet-cheating/README.md)
-  * [Estilo de Jogo](closet-legit-cheating/closet-cheating/Estilo de Jogo.md)
+  * [Estilo de Jogo](closet-legit-cheating/closet-cheating/2.md)
 * [Legit Cheating](closet-legit-cheating/legit-cheating/README.md)
-  * [Estilo de Jogo](closet-legit-cheating/legit-cheating/Estilo de Jogo.md)
+  * [Estilo de Jogo](closet-legit-cheating/legit-cheating/2.md)
 * [Legit HvH](closet-legit-cheating/legit-hvh.md)
 * [Dicas para legits](closet-legit-cheating/tips-for-legits.md)
 
@@ -109,10 +109,10 @@
 
 * [Introdução](hvh-cheating/introduction.md)
 * [Estilo de Jogo](hvh-cheating/Estilo de Jogo/README.md)
-  * [Estilo de Jogo e Configuração](hvh-cheating/Estilo de Jogo/Estilo de Jogo-and-configuration.md)
-  * [O que fazer e o que não](hvh-cheating/Estilo de Jogo/dos-and-donts.md)
-  * [Dicas e truques](hvh-cheating/Estilo de Jogo/tips-and-tricks.md)
-  * [Exemplo de estilo de jogo](hvh-cheating/Estilo de Jogo/Estilo de Jogo-example.md)
+  * [Estilo de Jogo e Configuração](hvh-cheating/2-and-configuration.md)
+  * [O que fazer e o que não](hvh-cheating/2/dos-and-donts.md)
+  * [Dicas e truques](hvh-cheating/2/tips-and-tricks.md)
+  * [Exemplo de estilo de jogo](hvh-cheating/2/Estilo de Jogo-example.md)
 * [Spots comuns para mapas diferentes](hvh-cheating/common-spots-for-different-maps/README.md)
   * [Dust2](hvh-cheating/common-spots-for-different-maps/dust2.md)
   * [Dust2 \(Old\)](hvh-cheating/common-spots-for-different-maps/dust2-old.md)
